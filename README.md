@@ -1,7 +1,7 @@
 Karel_03
 ======
 
-Karel starter code and resources for the Lab00 assignment.
+Karel starter code and resources for the Lab03 assignment.
 
 Instructions:
 * Use the FORK button to create a copy of this code under your personal Github account
